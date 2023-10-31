@@ -1,8 +1,14 @@
 - Este es un archivo de prueba
 
 Comando:
+
+$ git init
 $ git add nombre.extension de archivo
 $ git commit -m "Lo que indicas en el archivo"
+$ git branch -m main
+$ git remote add origin https://github.com/MarioMRdev/sep.git
+$ git -u origin main
+
 $ git push origin main
 $ git remote
 
