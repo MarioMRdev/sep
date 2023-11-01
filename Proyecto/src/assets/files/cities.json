@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "Panamá",
+            "image": "city-panama.jpg",
+            "desc": "La Ciudad de Panamá es la capital de la República de Panamá, de la Provincia de Panamá y cabecera del Distrito de Panamá."
+        },
+        {
+            "id": 2,
+            "name": "Penonomé",
+            "image": "city-penonome.jpg",
+            "desc": "Penonomé es la capital de la provincia panameña de Coclé, al oeste de la provincia de Panamá Oeste, en el centro geográfico del país."
+        },
+        {
+            "id": 3,
+            "name": "Bocas del Toro",
+            "image": "city-bocasdeltoro.jpg",
+            "desc": "Bocas del Toro también conocida coloquialmente como Bocas, Bocas Isla o Bocas Town, es la capital de la provincia panameña de Bocas del Toro y es la cabecera del Distrito de Bocas del Toro."
+        }
+    
+    ]
+}

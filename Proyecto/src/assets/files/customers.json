@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "name": "Elnora",
+            "state": "Mira, arriba en el cielo",
+            "description": "Espacio de la última frontera",
+            "image": "avatar-Elnora.png"
+        },
+        {
+            "name": "Han",
+            "state": "El asombroso Hubble",
+            "description": "El buda esmeralda",
+            "image": "avatar-Han.png"
+        },
+        {
+            "name": "Andrea",
+            "state": "Amigo, vas a conseguir un telescopio",
+            "description": "Paz en la tierra un deseo maravilloso pero de ninguna manera",
+            "image": "avatar-Andrea.jpg"
+        }
+    
+    ]
+}
